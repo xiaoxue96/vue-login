@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22996d"],{dda8:function(t,a,e){"use strict";e.r(a);var n=function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",[e("a-result",{attrs:{status:"error",title:"登录失败","sub-title":"用户名或密码错误"}}),e("a-button",{attrs:{type:"primary"},on:{click:t.handleClickBack}},[t._v(" Back")])],1)},c=[],l={methods:{handleClickBack:function(){history.back()}}},r=l,s=e("2877"),i=Object(s["a"])(r,n,c,!1,null,null,null);a["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d22996d.050eedbf.js.map
